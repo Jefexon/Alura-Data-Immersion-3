@@ -1,2 +1,6 @@
 # Alura-Data-Immersion-3
-Lessons and solutions of the "Imersao Dados 3 Alura" (Data Immersion 3, Alura).
+Alura.com.br is a Brazilian platform of online courses with an annual subscription.
+On Monday 3 May, they started the 3rd edition of "Imersao Dados" which translates to "Data Immersion". Until the 7th May there will be lessons and challenges everyday, with a few lives on YouTube too.
+We will learn how Data Science and Machine Learning can help with drug discovery.
+
+All the content is in Portuguese, but I will be translating it to English.
